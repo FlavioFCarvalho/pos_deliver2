@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.posgraduacao.deliver.dtos.OrderDTO;
-import com.posgraduacao.deliver.dtos.ProductDTO;
 import com.posgraduacao.deliver.services.OrderService;
 
 @RestController
